@@ -1,6 +1,8 @@
 # 🧠 Live Cognitive Interface (LCI)
-
+---
 ## UI
+<img width="1599" height="736" alt="image" src="https://github.com/user-attachments/assets/028c4ca7-f77a-4598-b229-0ba15ba4e23f" />
+
 ---
 
 ## 🚀 Overview
