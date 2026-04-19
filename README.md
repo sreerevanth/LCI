@@ -1,9 +1,6 @@
 # 🧠 Live Cognitive Interface (LCI)
 
-## 🎬 Demo
-
-![LCI Demo](assets/demo.png)
-
+## UI
 ---
 
 ## 🚀 Overview
